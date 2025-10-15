@@ -5,3 +5,5 @@ outputs/baseline-model.csv
 outputs/polynomial_submission.csv
 notebooks/augmented_polynomial_submission.csv
 outputs/reduced_polynomial_submission.csv
+outputs/augmented_polynomial_submission.csv
+outputs/knn_submission.csv
